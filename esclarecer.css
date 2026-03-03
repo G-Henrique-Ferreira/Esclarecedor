@@ -13,9 +13,11 @@
 
 .container {
 
-    .row {
-        
-    }
 }
+
+.container .row {
+    margin-bottom: 1rem
+}
+
 
 
