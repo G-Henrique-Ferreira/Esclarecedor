@@ -15,9 +15,14 @@
 
 }
 
+.container .div-line {
+    border-bottom: 1px grey solid;
+}
+
 .container .row {
     margin-bottom: 1rem
 }
+
 
 
 
