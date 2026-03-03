@@ -7,7 +7,7 @@
 .cabecalho {
     background-color: orange;
     padding: 5%;
-    margin-bottom: 1%;
+    margin-bottom: .25rem;
 
 }
 
@@ -17,11 +17,13 @@
 
 .container .div-line {
     border-bottom: 1px grey solid;
+    margin-bottom: 1rem;
 }
 
 .container .row {
     margin-bottom: 1rem
 }
+
 
 
 
