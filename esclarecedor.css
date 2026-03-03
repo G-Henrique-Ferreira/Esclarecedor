@@ -2,27 +2,31 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 .cabecalho {
     background-color: orange;
-    padding: 5%;
-    margin-bottom: .25rem;
+    padding: 2rem 0 2rem 3rem;
 
 }
 
 .container {
-
+    margin-top: 2rem;
+    
 }
 
 .container .div-line {
     border-bottom: 1px grey solid;
     margin-bottom: 1rem;
+    
 }
 
 .container .row {
     margin-bottom: 1rem
+    
 }
+
 
 
 
