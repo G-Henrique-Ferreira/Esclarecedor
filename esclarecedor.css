@@ -23,9 +23,11 @@
 }
 
 .container .row {
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
+    gap: .25rem;
     
 }
+
 
 
 
