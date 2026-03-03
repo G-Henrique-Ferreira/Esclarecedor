@@ -18,7 +18,7 @@
 
 .container .div-line {
     border-bottom: 1px grey solid;
-    margin-bottom: 1rem;
+    margin: .5rem 0 2.5rem 0;
     
 }
 
@@ -31,6 +31,7 @@
 .container .row b {
     padding: 0;
 }
+
 
 
 
