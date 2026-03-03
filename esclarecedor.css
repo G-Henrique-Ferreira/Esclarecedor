@@ -5,6 +5,11 @@
     
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
 .cabecalho {
     background-color: orange;
     padding: 2rem 0 2rem 3rem;
@@ -30,12 +35,13 @@
 
 .container .row b {
     padding: 0;
+    
 }
 
 
 @media (max-width: 768px) {
-  
   .container {
-    padding: 1rem;
+    padding: 0 1.5rem 0 1.5rem !important;
       
   }
+
